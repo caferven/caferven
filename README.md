@@ -26,3 +26,4 @@ Here are some ideas to get you started:
   - [subscription_oca](https://github.com/OCA/contract/tree/17.0/subscription_oca)
 - Domatix:
   - [hr-workweek](https://github.com/Domatix/hr-workweek)
+  - [helpdesk](https://github.com/Domatix/helpdesk/tree/15.0)
