@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 🌱 Learning Django.
 - 👯 Free and open source software enthusiast.
 - ⚡ Homelab with Proxmox and open source services on top of LXC. Wireguard for external access.
+
+**Contributions:**
+- OCA:
+  - [loyalty_multi_gift](https://github.com/OCA/sale-promotion/tree/16.0/loyalty_multi_gift)
+  - [sale_loyalty_criteria_multi_product](https://github.com/OCA/sale-promotion/tree/16.0/loyalty_multi_gift)
+  - [subscription_oca](https://github.com/OCA/contract/tree/17.0/subscription_oca)
+- Domatix:
+  - [hr-workweek](https://github.com/Domatix/hr-workweek)
