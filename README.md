@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🖥️ Software developer (Python, Odoo & Android) for 3+ years.
+- 🖥️ Software developer (Python/Odoo & Android) for 3+ years.
 - 🌱 Learning Django.
 - 🫂 Free and open source software enthusiast.
 - ⚡ Homelab with Proxmox and open source services on top of LXC. Wireguard for external access.
