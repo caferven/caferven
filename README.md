@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🖥️ Software developer (Python/Odoo & Android) for 3+ years.
-- 🌱 Learning Django.
+- 🌱 Expanding my skills in web development frameworks, specifically Django.
 - 🫂 Free and open source software enthusiast.
 - ⚡ Homelab with Proxmox and open source services on top of LXC. Wireguard for external access.
 
