@@ -14,16 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🖥️ Software developer (Python & Android) for 3+ years.
-- 🌱 Expanding my skills in web development frameworks.
-- 🫂 Free and open source software enthusiast.
-- ⚡ Homelab with Proxmox and open source services on top of LXC. Wireguard for external access.
-
-**Contributions:**
-- OCA:
-  - [loyalty_multi_gift](https://github.com/OCA/sale-promotion/tree/16.0/loyalty_multi_gift)
-  - [sale_loyalty_criteria_multi_product](https://github.com/OCA/sale-promotion/tree/16.0/sale_loyalty_criteria_multi_product)
-  - [subscription_oca](https://github.com/OCA/contract/tree/17.0/subscription_oca)
-- Domatix:
-  - [hr-workweek](https://github.com/Domatix/hr-workweek)
-  - [helpdesk](https://github.com/Domatix/helpdesk/tree/15.0)
+- 🖥️ Software developer
+- 🌱 Expanding my skills in web development frameworks
+- 🫂 Free and open source software enthusiast
+- 🧪 Homelab newbie
